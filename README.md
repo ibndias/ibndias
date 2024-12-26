@@ -8,8 +8,7 @@ My name is Derry Pratama **ibn Dias**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibndias&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![githubstats](https://github-readme-stats.vercel.app/api/?username=ibndias&theme=dark&show_icons=true)](https://github-readme-stats.vercel.app/api/?username=ibndias&theme=dark&show_icons=true)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibndias&custom_title=Stats&rank_icon=percentile&hide=prs&show=reviews,discussions_started&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![githubstats](https://github-readme-stats.vercel.app/api/?username=ibndias&rank_icon=percentile&theme=dark&show_icons=true)](https://github-readme-stats.vercel.app/api/?username=ibndias&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibndias&theme=dark&layout=compact)
 <!--
