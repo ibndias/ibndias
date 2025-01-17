@@ -6,7 +6,7 @@ My name is Derry Pratama **ibn Dias**
 - 📫 How to reach me: derryprata@gmail.com
 - Checkout my blog at: [derrylab.com](https://derrylab.com)
 - I made software for muslims, the first AI assistant that holds into strong reference: [shaikh](https://shaikh.derrylab.com)
-- Also I made map for realtime currently happening Islamic study lecture that keep updated by community daily:  [Kajian Maps](https://kajian.derrylab.com)
+- Also I made map for realtime currently happening Islamic Study lecture that keep updated by community daily: [Peta Kajian Sunnah Indonesia / Kajian Maps](https://kajian.derrylab.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibndias&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
