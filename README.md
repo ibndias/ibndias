@@ -2,7 +2,7 @@
 
 My name is Derry Pratama **ibn Dias**
 
-- 🔭 I’m currently working on LLM for Cybersecurity
+- 🔭 I’m currently working on LLM for Cybersecurity: [CIPHER Paper](https://www.mdpi.com/1424-8220/24/21/6878)
 - 📫 How to reach me: derryprata@gmail.com
 - Checkout my blog at: [derrylab.com](https://derrylab.com)
 - I made software for muslims, the first AI assistant that holds into strong reference: [shaikh](https://shaikh.derrylab.com)
