@@ -9,6 +9,7 @@ My name is Derry Pratama **ibn Dias**
 - During my undergraduate years, I joined the EEPIS Robotic Team as the lead in software and successfully secured 1st place for Indonesia in the Trinity Home College International competition. [Trinity College Fire Fighting Home Robot Contest - April 6, 2014](https://www.flickr.com/photos/trinitycollege/albums/72157643716718903/)
 - 📫 How to reach me: derryprata@gmail.com
 - Checkout my blog at: [derrylab.com](https://derrylab.com)
+- View my resume [here](https://github.com/ibndias/ibndias/blob/main/cv.md)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibndias&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
