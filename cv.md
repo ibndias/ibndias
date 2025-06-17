@@ -21,7 +21,7 @@ I am a dedicated researcher specializing in AI-driven cybersecurity solutions, r
 * Lead researcher for **[CIPHER](https://www.mdpi.com/1424-8220/24/21/6878)**, an AI-powered penetration testing assistant large language model specifically fine tuned from high-quality augmented writup knowledge (**HAWK**), **outperforms 10x larger model on Insane HackTheBox difficulties machine**.
 * Introduced novel **FARR** augmentation, an structurized schema to capture the full environment of vulnerable machine into compact, dense, and versatile data for **over 96+ combinations of intelligence evaluations**.
 * Proposed the novel **ASPIRE** benchmark, the first automated evaluation framework derived from the FARR flow, enabling realistic, reproducible, and **scalable LLM evaluation while achieving up to ~94% improvement in time efficiency**.
-* DJI Drone reverse engineering, **achieving full control hijacking with passive mid-flight MitM attack**. [Paper](https://ieeexplore.ieee.org/abstract/document/10830741).
+* DJI Drone reverse engineering, **achieving full control hijacking with passive mid-flight MitM attack**. [Paper](https://ieeexplore.ieee.org/abstract/document/10830741). [Demo](https://www.youtube.com/shorts/fKkOLrF8mHQ).
 
 ### Master Researcher
 
@@ -30,7 +30,7 @@ I am a dedicated researcher specializing in AI-driven cybersecurity solutions, r
 
 * Engineered cryptochip APIs and integrated cryptographic modules into multiple open-source projects.
 * Enhanced video streaming protocols for secure UAV communication.
-* Developed MECHA: Multithreaded and Efficient Cryptographic Hardware Access, optimized multi-threaded cryptographic APIs for custom ARIA and LEA HSM, **82.8% faster** than context switching API.
+* Developed [**MECHA**](https://www.youtube.com/watch?v=GO7vJJwfbM8&ab_channel=DerryPratama): Multithreaded and Efficient Cryptographic Hardware Access, optimized multi-threaded cryptographic APIs for custom ARIA and LEA HSM, **82.8% faster** than context switching API.
 
 ### Custom OS Developer
 
@@ -47,7 +47,7 @@ I am a dedicated researcher specializing in AI-driven cybersecurity solutions, r
 
 * Built real-time control systems for autonomous fire-fighting robots.
 * Led development of EFFIRO Firefighting robot algorithm, achieving national and **dominates 3 Trinity Firefighting College International champion in 2014**.
-* Develop EBARO balancing robot that is **adaptive to bigger [payload](https://www.youtube.com/watch?v=AXna85R67L4&ab_channel=DerryPratama) than the robot itself** and capable to climb on steep [inclined surface](https://www.youtube.com/watch?v=e0bp72Goe0A&ab_channel=DerryPratama).
+* Develop EBARO balancing robot that is **adaptive to bigger [payload](https://www.youtube.com/watch?v=AXna85R67L4&ab_channel=DerryPratama) than the robot itself** and capable to climb on steep [inclined surface](https://www.youtube.com/watch?v=e0bp72Goe0A&ab_channel=DerryPratama). [Paper](https://ieeexplore.ieee.org/document/7380821).
 * Develop fully automatic parking system detection.
 * Develop authenticated elevator system for apartment housing.
 
