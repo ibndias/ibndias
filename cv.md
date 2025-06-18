@@ -8,7 +8,7 @@
 
 ## Introduction
 
-I am a dedicated researcher specializing in AI-driven cybersecurity solutions, robotic automation, and advanced cryptographic systems. Passionate about leveraging cutting-edge technology to address complex challenges in security and autonomous systems.
+I am a **dedicated researcher** specializing in **AI-driven cybersecurity**, **robotic automation**, and **advanced cryptographic systems**. I **thrive on challenges**, **learn fast**, and hold myself to **high standards**. Passionate about **pushing the boundaries of technology**, I focus on solving **complex problems** in **security and autonomous systems** through **innovative** and **high-impact practical solutions**.
 
 ---
 
@@ -18,27 +18,32 @@ I am a dedicated researcher specializing in AI-driven cybersecurity solutions, r
 
 **AIoT Research Center, Infosec Lab – Pusan National University**
 📍 *Busan, South Korea* | 🗓️ *Aug 2023 – Present*
-* Lead researcher for **[CIPHER](https://www.mdpi.com/1424-8220/24/21/6878)**, an AI-powered penetration testing assistant large language model specifically fine tuned from high-quality augmented writup knowledge (**HAWK**), **outperforms 10x larger model on Insane HackTheBox difficulties machine**.
-* Introduced novel **FARR** augmentation, an structurized schema to capture the full environment of vulnerable machine into compact, dense, and versatile data for **over 96+ combinations of intelligence evaluations**.
-* Proposed the novel **ASPIRE** benchmark, the first automated evaluation framework derived from the FARR flow, enabling realistic, reproducible, and **scalable LLM evaluation while achieving up to ~94% improvement in time efficiency**.
-* DJI Drone reverse engineering, **achieving full control hijacking with passive mid-flight MitM attack**. [Paper](https://ieeexplore.ieee.org/abstract/document/10830741). [Demo](https://www.youtube.com/shorts/fKkOLrF8mHQ).
+* Lead researcher for **CIPHER**, an AI-powered penetration testing assistant large language model specifically fine tuned from high-quality augmented writup knowledge (**HAWK**), **outperforms 10x larger model on Insane HackTheBox difficulties machine**. [Paper](https://www.mdpi.com/1424-8220/24/21/6878). [Github](https://github.com/ibndias/CIPHER).
+* Introduced novel **FARR: Finding, Action, Reasoning, and Results** augmentation, an structurized schema to capture the full environment of vulnerable machine into compact, dense, and versatile data for **over 96+ combinations of intelligence evaluations**.
+* Proposed the novel **ASPIRE: Automated Scenario-based Intelligence and Reasoning Evaluation**, the first automated evaluation framework derived from the FARR flow, enabling realistic, reproducible, and **scalable LLM evaluation while achieving up to ~94% improvement in time efficiency**.
+* DJI Drone reverse engineering, **achieving full control hijacking with passive mid-flight MitM attack**. [Paper](https://ieeexplore.ieee.org/abstract/document/10830741). [Demo](https://www.youtube.com/shorts/fKkOLrF8mHQ). [Github](https://github.com/ibndias/dji-drone-hijacking).
 
 ### Master Researcher
 
 **Hardware Security Infosec Lab – Pusan National University**
 📍 *Busan, South Korea* | 🗓️ *March 2020 – Aug 2023*
 
-* Engineered cryptochip APIs and integrated cryptographic modules into multiple open-source projects.
-* Enhanced video streaming protocols for secure UAV communication.
-* Developed [**MECHA**](https://www.youtube.com/watch?v=GO7vJJwfbM8&ab_channel=DerryPratama): Multithreaded and Efficient Cryptographic Hardware Access, optimized multi-threaded cryptographic APIs for custom ARIA and LEA HSM, **82.8% faster** than context switching API.
+* Develop cryptochip APIs and integrated custom ARIA, LEA, HMAC cryptographic modules into multiple open-source projects like OpenSSL, wolfSSL, mbedTLS, and GNUtls.
+* Develop enhanced secure 4K ARIA-encrypted video streaming protocols for UAV communication.
+* Developed **MECHA: Multithreaded and Efficient Cryptographic Hardware Access**, optimized multi-threaded cryptographic APIs for custom ARIA and LEA HSM, **82.8% faster** than context switching API. [Paper](https://koreascience.kr/article/CFKO202319360813704.page). [Presentation](https://www.youtube.com/watch?v=GO7vJJwfbM8&ab_channel=DerryPratama).
+* Research and implement **RIMI: Instruction-level Memory Isolation for Embedded Systems on RISC-V**, instruction-level memory isolation where the access permission is bound to each memory and control transfer instructions with **only 0.88% overhead**. [Paper](https://ieeexplore.ieee.org/document/9256494).
+* Develop full-course for **RISC-V Assembly** in FPGA and Simulation.
+* Research and implement **COMET: Configurable Tagged Memory Extension** on securing memory by modifying RISCV LLVM and GCC efficiently with **only 0.4% overhead**. [Paper](https://www.mdpi.com/1424-8220/21/22/7771). 
 
 ### Custom OS Developer
 
 **IDEMIA**
 📍 *Jakarta, Indonesia* | 🗓️ *Nov 2016 – Nov 2019*
 
-* Developed secure custom operating systems for smartcard and identity management.
-* Developed HSM mutithreaded API architecture.
+* Engineered secure, custom operating systems for smartcards and national identity authentication systems used in high-security deployments.
+* Spearheaded multithreaded API architecture for hardware security modules (HSM), improving performance for scalable cryptographic operations.
+* Coordinated directly with R&D teams in France to ensure secure remote compilation and compliance with global security standards.
+* Optimizing critical security modules that ensuring cryptographic integrity, tamper resistance, and personalization security for millions of secure identity tokens.
 
 ### Lead Robotics Engineer
 
@@ -46,7 +51,7 @@ I am a dedicated researcher specializing in AI-driven cybersecurity solutions, r
 📍 *Surabaya, Indonesia* | 🗓️ *2011 – 2015*
 
 * Built real-time control systems for autonomous fire-fighting robots.
-* Led development of EFFIRO Firefighting robot algorithm, achieving national and **dominates 3 Trinity Firefighting College International champion in 2014**.
+* Led development of EFFIRO Firefighting robot algorithm, achieving national and **won 3 [Trinity Firefighting College International](https://www.flickr.com/photos/trinitycollege/albums/72157643716718903/with/13745533603) champion**.
 * Develop EBARO balancing robot that is **adaptive to bigger [payload](https://www.youtube.com/watch?v=AXna85R67L4&ab_channel=DerryPratama) than the robot itself** and capable to climb on steep [inclined surface](https://www.youtube.com/watch?v=e0bp72Goe0A&ab_channel=DerryPratama). [Paper](https://ieeexplore.ieee.org/document/7380821).
 * Develop fully automatic parking system detection.
 * Develop authenticated elevator system for apartment housing.
@@ -63,7 +68,7 @@ I am a dedicated researcher specializing in AI-driven cybersecurity solutions, r
 
 **Sepuluh Nopember Institute of Technology (ITS)** | *Surabaya, Indonesia*
 
-* **Bachelor’s Degree**, Robotics Engineering *(2011 – 2015)*
+* **Bachelor’s Degree**, Computer Engineering *(2011 – 2015)*
 ---
 
 ## Technical Skills
