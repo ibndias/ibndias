@@ -2,7 +2,7 @@
 
 **Researcher | AI, Cybersecurity, Robotics**
 
-##### 📧 [derryprata@gmail.com](mailto:derryprata@gmail.com) | 💻 [GitHub](https://github.com/ibndias) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) | 🌐 [Blog](https://derrylab.com)
+##### 📧 [derryprata@gmail.com](mailto:derryprata@gmail.com) | 💻 [GitHub](https://github.com/ibndias) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=iURA7Z0AAAAJ&hl=en) | 💼 [LinkedIn](https://www.linkedin.com/in/derry-pratama-1337h/) | 🌐 [Blog](https://derrylab.com)
 
 ---
 
